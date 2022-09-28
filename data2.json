@@ -1,0 +1,38 @@
+[
+    {
+      "id" : 3,
+      "title" : "CAT EYE in BLACK",
+      "content" : "Les.Basics black cat eye sunglasses is made of acetate. Affordable aesthetic sunglasses that don't provide high maximum protection.",
+      "price" : 35000
+    },
+    {
+      "id" : 4,
+      "title" : "KNIT SKIRT in CREAM",
+      "content" : "At Les.Basics versatility and timelessness are always our top priority when designing our pieces.",
+      "price" : 65000
+    },
+    {
+      "id" : 5,
+      "title" : "MULTIWAY DRESS in DARK GREEN",
+      "content" : "The Multiway Dress is a basic statement in your wardrobe. ",
+      "price" : 180000
+    },
+    {
+      "id" : 6,
+      "title" : "BASIC SOCKS in WHITE",
+      "content" : "Les.Basics unisex white socks are made from a lightweight cotton-blend and feature a black les.basics logo in front.",
+      "price" : 32000
+    },
+    {
+      "id" : 7,
+      "title" : "OVERSIZED SHIRT in WHITE",
+      "content" : "Les.Basics white long sleeve button-down shirt is made of cotton poplin with a relaxed oversized fit.",
+      "price" : 120000
+    },
+    {
+      "id" : 8,
+      "title" : "STRAIGHT LEG BASIC JEANS in MEDIUM BLUE",
+      "content" : "Our new signature straight leg jeans. This fit is a timeless and versatile staple to add to your wardrobe. ",
+      "price" : 140000
+    }
+  ]
